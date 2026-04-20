@@ -108,9 +108,6 @@ This project is licensed under the MIT License.
 
 
 
-GitHub: https://github.com/your-username
-
-
 
 ⭐ Acknowledgements
 
